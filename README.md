@@ -2,6 +2,8 @@
  
 このアプリはAiと音声生成とUnityでの3Dモデルを組み合わせてテキストコミニケーションを撮ることができるFlutterアプリです。
 
+!!まだREADMEは描いてる途中です！！
+
 
 https://github.com/tsubasa1997/ene_ai_app/assets/96885280/5e95af63-55a4-4fe3-ae90-9116d429ed20
 
