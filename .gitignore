@@ -47,4 +47,7 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
+/ios/UnityLibrary
+/android/unityLibrary
+/unity.DemoApp
 
