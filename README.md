@@ -75,13 +75,13 @@ Unity側の3Dオブジェクト、起動させたいメソッド名、送信す�
 #### C#スクリプト
 <img width="1007" alt="スクリーンショット 2024-06-04 9 35 29" src="https://github.com/tsubasa1997/ene_ai_app/assets/96885280/5dc7caa6-7d81-47f3-9bd1-0ea404c0353b">
 
-### 3.Trigerを使って3Dオブジェクトに特定の動作を命令
-受け取った指令をTrigerとして3DオブジェクトのAnimetionControllerで動かしたいアニメーションに遷移させます。
+### 3.Triggerを使って3Dオブジェクトに特定の動作を命令
+受け取った指令をTriggerとして3DオブジェクトのAnimetionControllerで動かしたいアニメーションに遷移させます。
 
 <img width="1090" alt="スクリーンショット 2024-06-04 9 41 36" src="https://github.com/tsubasa1997/ene_ai_app/assets/96885280/b02db370-9024-4804-9e98-3289ccde3d99">
      
 
-### UnityWidgetController.postMessageとTrigerを組み合わせればボタンによるセットされた好きなアニメーションを呼ぶことができ、好きなタイミングでアニメーションを見ることがわかりますね。
+### UnityWidgetController.postMessageとTriggerを組み合わせればボタンによるセットされた好きなアニメーションを呼ぶことができ、好きなタイミングでアニメーションを見ることがわかりますね。
 
 #### ボタンによるアニメーション操作
 https://github.com/tsubasa1997/ene_ai_app/assets/96885280/92afed55-9a4d-4dff-9ef1-d32a30cc539b
