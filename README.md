@@ -17,7 +17,7 @@ VRoid URL https://vroid.com/studio
 # 使用技術
 * Flutter
 * Unity
-* Open API
+* ChatGpt　API
 * flutter unity widget  https://pub.dev/packages/flutter_unity_widget
 * 音声生成ツール
 
