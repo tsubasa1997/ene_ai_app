@@ -29,7 +29,7 @@ VRoid URL https://vroid.com/studio
 
 システムの全体的な図は下のようになっています。
 
-![スクリーンショット 2024-06-03 14 44 25](https://github.com/tsubasa1997/ene_ai_app/assets/96885280/2e8921f5-1242-438a-9b43-da7e836e9d43)
+<img width="741" alt="スクリーンショット 2024-06-04 11 48 21" src="https://github.com/tsubasa1997/ene_ai_app/assets/96885280/d03eeeb1-e94d-490f-b978-29a3bb43e173">
 
 # 開発概要
 このアプリは大きく分けて,4つの機能を用いてテキストコミニケーションを取れるようになっています。
