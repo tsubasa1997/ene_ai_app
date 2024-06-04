@@ -7,7 +7,7 @@ https://github.com/tsubasa1997/ene_ai_app/assets/96885280/5e95af63-55a4-4fe3-ae9
 
 
 
-アプリ内のキャラクターはカゲロウプロジェクトに登場するエネというキャラクターを元に、VRoid Studioを使用して3Dモデルを作成しました.
+### アプリ内のキャラクターはカゲロウプロジェクトに登場するエネというキャラクターを元に、VRoid Studioを使用して3Dモデルを作成しました.
 
 
 VRoid URL https://vroid.com/studio
