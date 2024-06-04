@@ -1,16 +1,14 @@
 # ene_ai_app
  
-このアプリはAiと音声生成とUnityでの3Dモデルを組み合わせてテキストコミニケーションをとることができるFlutterアプリ(試作段階)です。
+このアプリは画面の中のキャラクターAIとコミュニケーションを取ることができるアプリです。
 
-Unityやflutter_unity_widget、3Dモデルの取り扱いは今回が初めてであり分からない事も多く、そのため技術がやや未熟であったり非効率な部分もあるかもしれません。しかし、これからも研究を続け、Flutterと3Dの新しい時代を切り開くために努力していきたいと思っています。
 
 https://github.com/tsubasa1997/ene_ai_app/assets/96885280/5e95af63-55a4-4fe3-ae90-9116d429ed20
 
 
 
-3Dモデルはカゲロウプロジェクトに登場するエネというキャラクターを元に作成しました
+アプリ内のキャラクターはカゲロウプロジェクトに登場するエネというキャラクターを元に、VRoid Studioを使用して3Dモデルを作成しました.
 
-3Dモデル作成にははVRoid Studioを採用しました。
 
 VRoid URL https://vroid.com/studio
 <img width="1021" alt="スクリーンショット 2024-06-04 8 46 49" src="https://github.com/tsubasa1997/ene_ai_app/assets/96885280/1a7970a8-dd44-4fc9-b55a-58b478654af1">
@@ -87,6 +85,9 @@ Unity側の3Dオブジェクト、起動させたいメソッド名、送信す�
 
 #### ボタンによるアニメーション操作
 https://github.com/tsubasa1997/ene_ai_app/assets/96885280/92afed55-9a4d-4dff-9ef1-d32a30cc539b
+
+
+
 
 
 
