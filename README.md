@@ -20,7 +20,7 @@ VRoid URL https://vroid.com/studio
 * Flutter
 * Unity
 * Open API
-* flutter unity widget
+* flutter unity widget  https://pub.dev/packages/flutter_unity_widget
 * 音声生成ツール
 
 # 設計概要
